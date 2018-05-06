@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Luas Persegi Panjang</string>
+    <string name="action_settings">Settings</string>
+    <string name="string_panjang">Panjang</string>
+    <string name="string_lebar">Lebar</string>
+    <string name="string_hitung">Hitung</string>
+    <string name="string_hasil">Hasil:</string>
+    <string name="string_version">Hitung Luas Persegi Panjang v1.0</string>
+</resources>
